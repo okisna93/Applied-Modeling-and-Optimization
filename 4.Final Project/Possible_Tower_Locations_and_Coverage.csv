@@ -1,0 +1,10 @@
+Neigborhood/Possible Tower Locations,Midtown(Region0),Lower Manhattan(Region1),Harlem(Region2),Upper East Side(Region3),Upper West Side(Region4)
+World Trade Center(Tower0),1,1,0,0,0
+Empire State(Tower1),1,0,0,0,0
+30 Hudson Yard(Tower2),0,0,0,0,1
+Central Park Tower(Tower3),1,0,0,1,1
+482 Park Avenue(Tower4),1,0,0,1,1
+Trump Palace Condominiums(Tower5),0,0,1,1,0
+200 Amsterdam Sales Gallery(Tower6),0,0,1,0,1
+Inwood Tower(Tower7),0,0,1,0,0
+Hess Center of Medicine(Tower8),0,0,1,1,0

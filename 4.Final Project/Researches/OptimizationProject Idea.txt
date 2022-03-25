@@ -1,0 +1,14 @@
+I was kinda start to think about distribution of the auto charge station(tower) for autonomous delivery drones accross NYC.
+
+Main purpose of the problem is to making more efficient to deliver small packages with drones, but in order to do that 
+we need to increase flight time of the drones without their coming back to base for recharging. 
+
+We can take as a customers: USPS, UPS, Fedex etc.
+
+Drones will leave from base (USPS, UPS, Fedex Distribution facilities) in the morning and they return the base when they compeletly delivered
+all the package that they carry. However drones flight time is really limitted (approximately 30-45 minutes). For delivering more package
+in the given area they need to stop few times on recharging stations( approxamitaly 45 minutes) during the day, and after that they need to continue
+to deliver rest of the load they have.
+
+we assume that we will put recharging stations accross the NYC, for drones, and try to optimize number of stations.
+
